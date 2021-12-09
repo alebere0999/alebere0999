@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alejandra Vega, current IT technician 
+- 👋 Hi, I’m Alejandra Vega, current IT technician
 - 👀 I’m interested in database administration
 - 🌱 I’m currently learning about network administration and IT support
 - 💞️ I’m looking to collaborate on SQL and NoSQL related proyects
